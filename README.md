@@ -9,7 +9,7 @@
 * Because it takes more time to train the model, you can choose to directly look at the prediction section, and submit the model file with the training completed
 
 ## Suggested folder structure
-![](image\1731264301951.jpg)
+![](image/1731264301951.jpg)
 
 ## 
-![](image\1731264364442.png)
+![](image/1731264364442.png)
